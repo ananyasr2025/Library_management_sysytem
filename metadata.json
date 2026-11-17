@@ -1,0 +1,6 @@
+{
+  "name": "Athenaeum Library Management System",
+  "description": "Role-separated library management portal featuring member catalog discovery, loan tracking, and automated librarian inventory management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
